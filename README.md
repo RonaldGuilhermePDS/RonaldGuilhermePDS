@@ -12,19 +12,21 @@
 
 <h3 align="center">🛠&nbsp;Languages and Tools:&nbsp;🛠</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-05112A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05112A?style=flat&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05112A?style=flat&logo=JAVASCRIPT)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05112A?style=flat&logo=NODE.JS)&nbsp;
-![React](https://img.shields.io/badge/-React-05112A?style=flat&logo=REACT)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05112A?style=flat&logo=BOOTSTRAP)&nbsp;
-![EXPO](https://img.shields.io/badge/-EXPO-05112A?style=flat&logo=EXPO)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05112A?style=flat&logo=DOCKER)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05112A?style=flat&logo=GIT)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05112A?style=flat&logo=GITHUB)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05112A?style=flat&logo=GITLAB)&nbsp;
-  
-<p align="center"><a href="https://github.com/RonaldGuilhermePDS"><img align="center" alt="GIF" src="./.GitHub/RonaldGuilhermePDS.gif" width="600" height="320" /></a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-05112A?style=flat&logo=HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05112A?style=flat&logo=CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05112A?style=flat&logo=JAVASCRIPT" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-05112A?style=flat&logo=NODE.JS" />&nbsp;
+  <img src="https://img.shields.io/badge/-React-05112A?style=flat&logo=REACT" />&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-05112A?style=flat&logo=BOOTSTRAP" />&nbsp;
+  <img src="https://img.shields.io/badge/-EXPO-05112A?style=flat&logo=EXPO" />&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05112A?style=flat&logo=GIT" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05112A?style=flat&logo=GITHUB" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
+</P>
+
+<p align="center"><a href="https://github.com/RonaldGuilhermePDS"><img align="center" alt="GIF" src="./.GitHub/RonaldGuilhermePDS.gif" width="800" height="320" /></a></p>
 
 <hr>
 
