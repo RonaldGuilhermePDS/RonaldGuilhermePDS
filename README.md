@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
 </P>
 
-<p align="center"><a href="https://github.com/RonaldGuilhermePDS"><img align="center" alt="GIF" src="./.GitHub/RonaldGuilhermePDS.gif" width="800" height="320" /></a></p>
+<p align="center"><a href="https://github.com/RonaldGuilhermePDS"><img align="center" alt="GIF" src="./.GitHub/RonaldGuilhermePDS.gif" width="780" height="320" /></a></p>
 
 <hr>
 
@@ -47,7 +47,7 @@
 
 <hr>
 
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 21/08/2021</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 25/08/2021</p>
 
 <hr>
 <a href="https://github.com/RonaldGuilhermePDS">
