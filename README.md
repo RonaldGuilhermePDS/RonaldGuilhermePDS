@@ -74,11 +74,11 @@
 <h3 align="center">🏆&nbsp;Contacts&nbsp;🏆</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="40" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="40" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="40" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="40" /></a><a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
 </p>
 
 <hr>
