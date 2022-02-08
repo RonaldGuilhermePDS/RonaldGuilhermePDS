@@ -1,5 +1,6 @@
 <hr>
 
+<!-- Side -->
 <a href="https://github.com/RonaldGuilhermePDS">![Side](https://github.com/RonaldGuilhermePDS/RonaldGuilhermePDS/blob/master/.GitHub/Side.png?raw=true)</a>
 
 <hr>
@@ -10,6 +11,7 @@
 
 <hr>
 
+<!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
 <details>
@@ -65,30 +67,84 @@
 
 <hr>
 
+<!-- Professional Experience -->
+<h3 align="center">🏆&nbsp;PROFESSIONAL EXPERIENCE&nbsp;🏆</h3>
+
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://github.com/AutoDomo/)
+
+**Full-Stack Developer Web && Mobile** \
+[**Autodomo**](https://github.com/AutoDomo/) • 
+Smart Places Systems \
+Full Time \
+Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
+
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://github.com/AutoDomo/)
+
+**Full-Stack Developer Web && Mobile** \
+[**Autodomo**](https://github.com/AutoDomo/) • 
+Smart Places Systems \
+Trainee \
+Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
+
+<br>
+
+Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my professional experience.
+
+<hr>
+
+<!-- Projects -->
+<h3 align="center">🏆&nbsp;PROJECTS&nbsp;🏆</h3>
+
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/GeoRede-Logo.png"/>](https://georede.app.br/)
+
+**GeoRede** \
+[**Oficial Link**](https://georede.app.br/) • 
+Full Stack Development \
+Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
+Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
+
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.io/)
+
+**Autodomo** \
+[**Oficial Link**](https://autodomo.io/) • 
+Full Stack Development \
+Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
+Project Description: _AutoDomo is a system and smart drives on a unique and totally positive integrated platform with
+HomeK (Dis Apple.) All devices connected in a small device are automatically and accessible via
+the internet to be controlled by your Smartphone._
+
+<br>
+
+Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my projects.
+
+<hr>
+
+<!-- GitHub Trophies -->
 <h3 align="center">🏆&nbsp;GitHub Trophies&nbsp;🏆</h3>
 
 <p align="center"><a href="https://github.com/RonaldGuilhermePDS"><img height="150em" src="https://github-profile-trophy.vercel.app/?username=RonaldGuilhermePDS&margin-w=8&margin-h=8&theme=dracula" alt="RonaldGuilhermePDS"/></a></p>
 
 <hr>
 
+<!-- Contacts -->
 <h3 align="center">🏆&nbsp;Contacts&nbsp;🏆</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="42" /></a><a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="40" /></a><a href="www.linkedin.com/in/RonaldGuilhermePDS/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" /></a><a href="https://t.me/RonaldGuilhermePDS" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=559870208536&app_absent=0" target="_blank" rel="noopener noreferrer">
 </p>
 
 <hr>
 
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 21/10/2021</p>
+<!-- Credits -->
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 08/02/2022</p>
 
 <hr>
 
 <a href="https://github.com/RonaldGuilhermePDS">
 
+<!-- Side -->
 ![Side](https://github.com/RonaldGuilhermePDS/RonaldGuilhermePDS/blob/master/.GitHub/Side.png?raw=true)
 
 </a>
