@@ -151,4 +151,4 @@ Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more
 
 <hr>
 
-<p align="center"> “Intelligence is the ability to adapt to change. ” ― Stephen Hawking <p>
+<p align="center">“Intelligence is the ability to adapt to change. ” ― Stephen Hawking<p>
