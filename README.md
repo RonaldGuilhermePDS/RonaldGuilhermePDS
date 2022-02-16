@@ -74,25 +74,25 @@
 <!-- Professional Experience -->
 <h3 align="center">🏆&nbsp;PROFESSIONAL EXPERIENCE&nbsp;🏆</h3>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://github.com/AutoDomo/)
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
-**Full-Stack Developer Web && Mobile** \
-[**Autodomo**](https://github.com/AutoDomo/) • 
+**Full-Stack Developer Web and Mobile** \
+[**Autodomo**](https://autodomo.com.br/) • 
 Smart Places Systems \
 Full Time \
-Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://github.com/AutoDomo/)
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
-**Full-Stack Developer Web && Mobile** \
-[**Autodomo**](https://github.com/AutoDomo/) • 
+**Full-Stack Developer Web and Mobile** \
+[**Autodomo**](https://autodomo.com.br/) • 
 Smart Places Systems \
 Trainee \
-Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
 
 <br>
 
-Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my professional experience.
+Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my professional experience.
 
 <hr>
 
@@ -107,10 +107,10 @@ Full Stack Development \
 Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
 Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.io/)
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
 **Autodomo** \
-[**Oficial Link**](https://autodomo.io/) • 
+[**Oficial Link**](https://autodomo.com.br/) • 
 Full Stack Development \
 Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
 Project Description: _AutoDomo is a system and smart drives on a unique and totally positive integrated platform with
@@ -119,7 +119,7 @@ the internet to be controlled by your Smartphone._
 
 <br>
 
-Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my projects.
+Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my projects.
 
 <hr>
 
@@ -134,7 +134,8 @@ Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more
 <h3 align="center">🏆&nbsp;Contacts&nbsp;🏆</h3>
 
 <p align="center"><a href="https://linkedin.com/in/RonaldGuilhermePDS/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="40" /></a><a href="https://t.me/RonaldGuilhermePDS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=559870208536&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png" width="40" /></a></p>
+<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="40" /></a><a href="https://t.me/RonaldGuilhermePDS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=559870208536&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png" width="40" /></a>
+</p>
 
 <hr>
 
