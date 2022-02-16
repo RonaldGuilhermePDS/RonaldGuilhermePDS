@@ -26,8 +26,9 @@
 <details>
   <summary><b>Front-End</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/React-05112A?style=flat&logo=REACT" />&nbsp;
+  <img src="https://img.shields.io/badge/React.js-05112A?style=flat&logo=REACT" />&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-05112A?style=flat&logo=REACT" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-05112A?style=flat&logo=NEXT.JS" />&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-05112A?style=flat&logo=VUE.JS" />&nbsp;
   <img src="https://img.shields.io/badge/Vue%20Native-05112A?style=flat&logo=VUE.js" />&nbsp;
   <img src="https://img.shields.io/badge/Electron-05112A?style=flat&logo=ELECTRON" />&nbsp;
@@ -38,9 +39,10 @@
   <br>
   <img src="https://img.shields.io/badge/Node.js-05112A?style=flat&logo=NODE.JS" />&nbsp;
   <img src="https://img.shields.io/badge/Deno-05112A?style=flat&logo=DENO" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-05112A?stylflat&logo=MYSQL" />&nbsp;
   <img src="https://img.shields.io/badge/SQLite-05112A?stylflat&logo=SQLITE" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
 </details>
 
 <details>
@@ -57,6 +59,8 @@
   <img src="https://img.shields.io/badge/EXPO-05112A?style=flat&logo=EXPO" />&nbsp;
   <img src="https://img.shields.io/badge/Eslint-05112A?style=flat&logo=ESLINT" />&nbsp;
   <img src="https://img.shields.io/badge/Prettier-05112A?style=flat&logo=PRETTIER" />&nbsp;
+  <img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
+  <img src="https://img.shields.io/badge/Cypress-05112A?style=flat&logo=CYPRESS" />&nbsp;
 </details>
 
 <details>
@@ -135,7 +139,7 @@ Please find me on [LinkedIn](www.linkedin.com/in/RonaldGuilhermePDS/) for a more
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 08/02/2022</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 16/02/2022</p>
 
 <hr>
 
