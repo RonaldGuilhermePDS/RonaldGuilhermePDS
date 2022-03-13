@@ -112,7 +112,7 @@ Project Description: _Georede is a cross-platform management system for georefer
 **Autodomo** \
 [**Oficial Link**](https://autodomo.com.br/) • 
 Full Stack Development \
-Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
 Project Description: _AutoDomo is a system and smart drives on a unique and totally positive integrated platform with
 HomeK (Dis Apple.) All devices connected in a small device are automatically and accessible via
 the internet to be controlled by your Smartphone._
