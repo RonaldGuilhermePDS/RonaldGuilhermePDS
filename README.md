@@ -104,7 +104,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 **GeoRede** \
 [**Oficial Link**](https://georede.app.br/) • 
 Full Stack Development \
-Languages & Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
 Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
 
 [<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
@@ -140,7 +140,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 16/02/2022</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 13/03/2022</p>
 
 <hr>
 
