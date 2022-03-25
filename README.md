@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-05112A?style=flat&logo=GITHUB" />&nbsp;
   <img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
+  <img src="https://img.shields.io/badge/BitBucket-05112A?style=flat&logo=BITBUCKET" />&nbsp;
 </details>
 
 <details>
@@ -140,7 +141,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 13/03/2022</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 25/03/2022</p>
 
 <hr>
 
