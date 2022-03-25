@@ -81,7 +81,7 @@
 [**Autodomo**](https://autodomo.com.br/) • 
 Smart Places Systems \
 Full Time \
-Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, `Jest`, `Cypress`
 
 [<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
@@ -89,7 +89,7 @@ Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`,
 [**Autodomo**](https://autodomo.com.br/) • 
 Smart Places Systems \
 Trainee \
-Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`,
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, `Jest`, `Cypress`
 
 <br>
 
@@ -105,7 +105,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 **GeoRede** \
 [**Oficial Link**](https://georede.app.br/) • 
 Full Stack Development \
-Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, `Jest`, `Cypress` \
 Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
 
 [<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
@@ -113,7 +113,7 @@ Project Description: _Georede is a cross-platform management system for georefer
 **Autodomo** \
 [**Oficial Link**](https://autodomo.com.br/) • 
 Full Stack Development \
-Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, \
+Languages and Technologies: `JavaScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `Firebase`, `Jest`, `Cypress` \
 Project Description: _AutoDomo is a system and smart drives on a unique and totally positive integrated platform with
 HomeK (Dis Apple.) All devices connected in a small device are automatically and accessible via
 the internet to be controlled by your Smartphone._
