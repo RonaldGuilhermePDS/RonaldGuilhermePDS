@@ -11,6 +11,17 @@
 
 <hr>
 
+<!-- Studying About -->
+<h3 align="center">🏆&nbsp;Studying About&nbsp;🏆</h3>
+
+<img src="https://img.shields.io/badge/Elixir-05112A?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Phoenix-05112A?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Nerves-05112A?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Hedwing-05112A?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Kitto-05112A?style=flat&logo=ELIXIR" />&nbsp;
+
+<hr>
+
 <!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
