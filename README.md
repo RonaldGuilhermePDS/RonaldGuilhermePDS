@@ -52,7 +52,7 @@
 [**Autodomo**](https://autodomo.com.br/) • 
 Smart Places Systems \
 Full Time \
-Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress` \
+Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress`
 
 <br>
 
