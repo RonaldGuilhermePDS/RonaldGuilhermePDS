@@ -26,7 +26,6 @@
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
 <img src="https://img.shields.io/badge/HTML-05112A?style=flat&logo=HTML5" />&nbsp;
-<img src="https://img.shields.io/badge/CSS-05112A?style=flat&logo=CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-05112A?style=flat&logo=JAVASCRIPT" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-05112A?style=flat&logo=TYPESCRIPT" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-05112A?style=flat&logo=NODE.JS" />&nbsp;
