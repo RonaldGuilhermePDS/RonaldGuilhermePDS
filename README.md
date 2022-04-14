@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/React.js-05112A?style=flat&logo=REACT" />&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-05112A?style=flat&logo=REACT" />&nbsp;
   <img src="https://img.shields.io/badge/Next.js-05112A?style=flat&logo=NEXT.JS" />&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-05112A?style=flat&logo=VUE.JS" />&nbsp;
-  <img src="https://img.shields.io/badge/Vue%20Native-05112A?style=flat&logo=VUE.js" />&nbsp;
   <img src="https://img.shields.io/badge/Electron-05112A?style=flat&logo=ELECTRON" />&nbsp;
 </details>
 
@@ -141,7 +139,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 25/03/2022</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 13/04/2022</p>
 
 <hr>
 
