@@ -42,14 +42,12 @@
 <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
 <img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-05112A?style=flat&logo=KUBERNETES" />&nbsp;
+<img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
+<img src="https://img.shields.io/badge/Cypress-05112A?style=flat&logo=CYPRESS" />&nbsp;
 <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub-05112A?style=flat&logo=GITHUB" />&nbsp;
 <img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
 <img src="https://img.shields.io/badge/BitBucket-05112A?style=flat&logo=BITBUCKET" />&nbsp;
-<img src="https://img.shields.io/badge/Eslint-05112A?style=flat&logo=ESLINT" />&nbsp;
-<img src="https://img.shields.io/badge/Prettier-05112A?style=flat&logo=PRETTIER" />&nbsp;
-<img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
-<img src="https://img.shields.io/badge/Cypress-05112A?style=flat&logo=CYPRESS" />&nbsp;
 <img src="https://img.shields.io/badge/PopOS-05112A?style=flat&logo=POPOS" />&nbsp;
 
 <hr>
