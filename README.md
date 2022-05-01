@@ -52,7 +52,7 @@
 <!-- Professional Experience -->
 <h3 align="center">🏆&nbsp;PROFESSIONAL EXPERIENCE&nbsp;🏆</h3>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
+[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="AutoDomo Logo" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
 **Full-Stack Developer** \
 [**Autodomo**](https://autodomo.com.br/) • 
@@ -62,7 +62,7 @@ Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`
 
 <br>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Aguiar-Engenharia-Inteligente-Logo.png"/>](https://www.aguiareng.com.br/)
+[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="Aguiar Engenharia Inteligente Logo" src="./.GitHub/Aguiar-Engenharia-Inteligente-Logo.png"/>](https://www.aguiareng.com.br/)
 
 **Full-Stack Developer** \
 [**Aguiar Engenharia Inteligente**](https://www.aguiareng.com.br/) \
@@ -78,9 +78,9 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <!-- Projects -->
 <h3 align="center">🏆&nbsp;PROJECTS&nbsp;🏆</h3>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
+[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
-**Autodomo** \
+**AutoDomo** \
 [**Oficial Link**](https://autodomo.com.br/) • 
 Full Stack Development \
 Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress` \
@@ -90,7 +90,7 @@ the internet to be controlled by your Smartphone._
 
 <br>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/GeoRede-Logo.png"/>](https://georede.app.br/)
+[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/GeoRede-Logo.png"/>](https://georede.app.br/)
 
 **GeoRede** \
 [**Oficial Link**](https://georede.app.br/) • 
