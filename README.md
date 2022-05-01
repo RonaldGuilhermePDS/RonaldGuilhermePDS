@@ -62,12 +62,11 @@ Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`
 
 <br>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Aguiar-Engenharia-Inteligente-Logo.png"/>](https://www.aguiareng.com.br/)
 
 **Full-Stack Developer** \
-[**Autodomo**](https://autodomo.com.br/) • 
-Smart Places Systems \
-Trainee \
+[**Aguiar Engenharia Inteligente**](https://www.aguiareng.com.br/) \
+Full Time \
 Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress`
 
 <br>
