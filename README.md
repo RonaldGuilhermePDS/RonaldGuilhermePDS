@@ -79,16 +79,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <!-- Projects -->
 <h3 align="center">🏆&nbsp;PROJECTS&nbsp;🏆</h3>
 
-[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/GeoRede-Logo.png"/>](https://georede.app.br/)
-
-**GeoRede** \
-[**Oficial Link**](https://georede.app.br/) • 
-Full Stack Development \
-Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Jest`, `Cypress` \
-Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
-
-<br>
-
 [<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
 
 **Autodomo** \
@@ -98,6 +88,16 @@ Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`
 Project Description: _AutoDomo is a system and smart drives on a unique and totally positive integrated platform with
 HomeK (Dis Apple.) All devices connected in a small device are automatically and accessible via
 the internet to be controlled by your Smartphone._
+
+<br>
+
+[<img align="left" height="95px" width="95px" style="border-radius:10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/GeoRede-Logo.png"/>](https://georede.app.br/)
+
+**GeoRede** \
+[**Oficial Link**](https://georede.app.br/) • 
+Full Stack Development \
+Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Jest`, `Cypress` \
+Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
 
 <br>
 
@@ -122,7 +122,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 13/04/2022</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 01/05/2022</p>
 
 <hr>
 
