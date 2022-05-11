@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Phoenix-05112A?style=flat&logo=ELIXIR" />&nbsp;
 <img src="https://img.shields.io/badge/Nerves-05112A?style=flat&logo=ELIXIR" />&nbsp;
 <img src="https://img.shields.io/badge/Hedwig-05112A?style=flat&logo=ELIXIR" />&nbsp;
-<img src="https://img.shields.io/badge/Kittoo-05112A?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Kitto-05112A?style=flat&logo=ELIXIR" />&nbsp;
 
 <hr>
 
