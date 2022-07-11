@@ -24,6 +24,8 @@
 <!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
+<img src="https://img.shields.io/badge/HTML-05112A?style=flat&logo=HTML5" />&nbsp;
+<img src="https://img.shields.io/badge/CSS-05112A?style=flat&logo=CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-05112A?style=flat&logo=JAVASCRIPT" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-05112A?style=flat&logo=TYPESCRIPT" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-05112A?style=flat&logo=NODE.JS" />&nbsp;
@@ -37,6 +39,10 @@
 <img src="https://img.shields.io/badge/SQLite-05112A?stylflat&logo=SQLITE" />&nbsp;
 <img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
+<img src="https://img.shields.io/badge/RealmDB-05112A?style=flat&logo=REALM" />&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud_Platform-05112A.svg?style=flat&logo=GOOGLE-CLOUD" />&nbsp;
+<img src="https://img.shields.io/badge/Amazon_Web_Services-05112A.svg?style=flat&logo=AMAZON-AWS" />&nbsp;
+<img src="https://img.shields.io/badge/Amazon_Lambda-05112A.svg?style=flat&logo=AWS-LAMBDA" />&nbsp;
 <img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-05112A?style=flat&logo=KUBERNETES" />&nbsp;
 <img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
@@ -45,6 +51,9 @@
 <img src="https://img.shields.io/badge/GitHub-05112A?style=flat&logo=GITHUB" />&nbsp;
 <img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
 <img src="https://img.shields.io/badge/BitBucket-05112A?style=flat&logo=BITBUCKET" />&nbsp;
+<img src="https://img.shields.io/badge/Elixir-05112A.svg?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Bash-05112A.svg?style=flat&logo=gnu-BASH" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
 
 <hr>
 
@@ -120,7 +129,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 11/06/2022</p>
+<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 10/07/2022</p>
 
 <hr>
 
