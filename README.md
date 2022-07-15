@@ -58,61 +58,6 @@
 
 <hr>
 
-<!-- Professional Experience -->
-<h3 align="center">🏆&nbsp;PROFESSIONAL EXPERIENCE&nbsp;🏆</h3>
-
-[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="AutoDomo Logo" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
-
-**Full-Stack Developer** \
-[**Autodomo**](https://autodomo.com.br/) • 
-Smart Places Systems \
-Full Time \
-Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress`
-
-<br>
-
-[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="Aguiar Engenharia Inteligente Logo" src="./.GitHub/Aguiar-Engenharia-Inteligente-Logo.png"/>](https://www.aguiareng.com.br/)
-
-**Full-Stack Developer** \
-[**Aguiar Engenharia Inteligente**](https://www.aguiareng.com.br/) \
-Full Time \
-Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress`
-
-<br>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my professional experience.
-
-<hr>
-
-<!-- Projects -->
-<h3 align="center">🏆&nbsp;PROJECTS&nbsp;🏆</h3>
-
-[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/Autodomo-Logo.png"/>](https://autodomo.com.br/)
-
-**AutoDomo** \
-[**Oficial Link**](https://autodomo.com.br/) • 
-Full Stack Development \
-Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Docker`, `Kubernetes`, `Jest`, `Cypress` \
-Project Description: _AutoDomo is a system and smart drives on a unique and totally positive integrated platform with
-HomeK (Dis Apple.) All devices connected in a small device are automatically and accessible via
-the internet to be controlled by your Smartphone._
-
-<br>
-
-[<img align="left" height="95px" width="95px" style="border-radius: 10%; margin-Right: 2%" alt="GeoRede" src="./.GitHub/GeoRede-Logo.png"/>](https://georede.app.br/)
-
-**GeoRede** \
-[**Oficial Link**](https://georede.app.br/) • 
-Full Stack Development \
-Languages and Technologies • `JavaScript`, `TypeScript`, `Node JS`, `React JS`, `React Native`, `Expo`, `MySQL`, `SQLite`, `Firebase`, `Jest`, `Cypress` \
-Project Description: _Georede is a cross-platform management system for georeferenced and/or topographic surveys, where the user has full control of their surveys._
-
-<br>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) for a more detailed description of my projects.
-
-<hr>
-
 <!-- GitHub Trophies -->
 <h3 align="center">🏆&nbsp;GitHub Trophies&nbsp;🏆</h3>
 
