@@ -143,4 +143,4 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/RonaldGuilhermePDS/) fo
 
 <hr>
 
-<p align="center"> “Intelligence is the ability to adapt to change. ” ― Stephen Hawking <p>
+<p align="center"> "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." - John Von Neumann <p>
