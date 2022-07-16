@@ -7,7 +7,7 @@
 
 <h3 align="center">🏆&nbsp;Welcome to my Profile&nbsp;🏆</h3>
 
-<p align="center">Hi, i'm <a href="https://github.com/RonaldGuilhermePDS">Ronald</a>, an IT enthusiast since I was 12 years old and with excellent skills in Building/Deconstructing "Softwares".</p>
+<p align="center">Technology enthusiast since the age of 12, naturally curious and radically instigated to learn.</p>
 
 <hr>
 
@@ -75,7 +75,7 @@
 <hr>
 
 <!-- Credits -->
-<p align="center">Credits: <a href="https://github.com/RonaldGuilhermePDS">RonaldGuilhermePDS</a> <br> Last Updated ON: 15/07/2022</p>
+<p align="center">Last Updated ON: 15/07/2022</p>
 
 <hr>
 
