@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
 <img src="https://img.shields.io/badge/BitBucket-05112A?style=flat&logo=BITBUCKET" />&nbsp;
 <img src="https://img.shields.io/badge/Elixir-05112A.svg?style=flat&logo=ELIXIR" />&nbsp;
+<img src="https://img.shields.io/badge/Phoenix-05112A.svg?style=flat&logo=ELIXIR" />&nbsp;
 <img src="https://img.shields.io/badge/Bash-05112A.svg?style=flat&logo=gnu-BASH" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
 <img src="https://img.shields.io/badge/Raspberry_Pi-05112A?style=flat&logo=RASPBERRY-PI" />&nbsp;
@@ -75,7 +76,7 @@
 <hr>
 
 <!-- Credits -->
-<p align="center">Last Updated ON: 15/07/2022</p>
+<p align="center">Last Updated ON: 28/11/2022</p>
 
 <hr>
 
