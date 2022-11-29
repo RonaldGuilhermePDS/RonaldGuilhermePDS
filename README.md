@@ -29,14 +29,12 @@
 <img src="https://img.shields.io/badge/JavaScript-05112A?style=flat&logo=JAVASCRIPT" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-05112A?style=flat&logo=TYPESCRIPT" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-05112A?style=flat&logo=NODE.JS" />&nbsp;
-<img src="https://img.shields.io/badge/Deno-05112A?style=flat&logo=DENO" />&nbsp;
 <img src="https://img.shields.io/badge/React.js-05112A?style=flat&logo=REACT" />&nbsp;
 <img src="https://img.shields.io/badge/React%20Native-05112A?style=flat&logo=REACT" />&nbsp;
 <img src="https://img.shields.io/badge/EXPO-05112A?style=flat&logo=EXPO" />&nbsp;
 <img src="https://img.shields.io/badge/Next.js-05112A?style=flat&logo=NEXT.JS" />&nbsp;
 <img src="https://img.shields.io/badge/Electron-05112A?style=flat&logo=ELECTRON" />&nbsp;
-<img src="https://img.shields.io/badge/MySQL-05112A?stylflat&logo=MYSQL" />&nbsp;
-<img src="https://img.shields.io/badge/SQLite-05112A?stylflat&logo=SQLITE" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-05112A?stylflat&logo=MYSQL" />&nbsp; 
 <img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
 <img src="https://img.shields.io/badge/RealmDB-05112A?style=flat&logo=REALM" />&nbsp;
@@ -48,14 +46,10 @@
 <img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
 <img src="https://img.shields.io/badge/Cypress-05112A?style=flat&logo=CYPRESS" />&nbsp;
 <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
-<img src="https://img.shields.io/badge/GitHub-05112A?style=flat&logo=GITHUB" />&nbsp;
-<img src="https://img.shields.io/badge/GitLab-05112A?style=flat&logo=GITLAB" />&nbsp;
-<img src="https://img.shields.io/badge/BitBucket-05112A?style=flat&logo=BITBUCKET" />&nbsp;
 <img src="https://img.shields.io/badge/Elixir-05112A.svg?style=flat&logo=ELIXIR" />&nbsp;
 <img src="https://img.shields.io/badge/Phoenix-05112A.svg?style=flat&logo=ELIXIR" />&nbsp;
 <img src="https://img.shields.io/badge/Bash-05112A.svg?style=flat&logo=gnu-BASH" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
-<img src="https://img.shields.io/badge/Raspberry_Pi-05112A?style=flat&logo=RASPBERRY-PI" />&nbsp;
 
 <hr>
 
