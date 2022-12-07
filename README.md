@@ -1,5 +1,3 @@
-<hr>
-
 <!-- Side -->
 <a href="https://github.com/RonaldGuilhermePDS">![Side](https://github.com/RonaldGuilhermePDS/RonaldGuilhermePDS/blob/master/.GitHub/Side.png?raw=true)</a>
 
