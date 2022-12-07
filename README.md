@@ -11,16 +11,6 @@
 
 <hr>
 
-<!-- Studying About -->
-<h3 align="center">🏆&nbsp;Studying About&nbsp;🏆</h3>
-
-<img src="https://img.shields.io/badge/Elixir-05112A?style=flat&logo=ELIXIR" />&nbsp;
-<img src="https://img.shields.io/badge/Phoenix-05112A?style=flat&logo=ELIXIR" />&nbsp;
-<img src="https://img.shields.io/badge/Nerves-05112A?style=flat&logo=ELIXIR" />&nbsp;
-<img src="https://img.shields.io/badge/Hedwig-05112A?style=flat&logo=ELIXIR" />&nbsp;
-
-<hr>
-
 <!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
@@ -43,6 +33,8 @@
 <img src="https://img.shields.io/badge/Amazon_Lambda-05112A.svg?style=flat&logo=AWS-LAMBDA" />&nbsp;
 <img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-05112A?style=flat&logo=KUBERNETES" />&nbsp;
+<img src="https://img.shields.io/badge/Ansible-05112A.svg?style=flat&logo=ANSIBLE" />&nbsp;
+<img src="https://img.shields.io/badge/Terraform-05112A.svg?style=flat&logo=TERRAFORM" />&nbsp;
 <img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
 <img src="https://img.shields.io/badge/Cypress-05112A?style=flat&logo=CYPRESS" />&nbsp;
 <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
@@ -70,7 +62,7 @@
 <hr>
 
 <!-- Credits -->
-<p align="center">Last Updated ON: 28/11/2022</p>
+<p align="center">Last Updated ON: 07/12/2022</p>
 
 <hr>
 
