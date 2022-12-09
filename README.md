@@ -5,7 +5,7 @@
 
 <h3 align="center">🏆&nbsp;Welcome to my Profile&nbsp;🏆</h3>
 
-<p align="center">Technology enthusiast since the age of 12, naturally curious and radically instigated to learn.</p>
+<p align="center">Naturally self-taught and enthusiastic, working with software development since he was 12 years old.<br>Professional with more than 4 years of experience in the entire software development cycle.</p>
 
 <hr>
 
@@ -60,7 +60,7 @@
 <hr>
 
 <!-- Credits -->
-<p align="center">Last Updated ON: 07/12/2022</p>
+<p align="center">Last Updated ON: 09/12/2022</p>
 
 <hr>
 
