@@ -37,13 +37,13 @@
 <img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
 <img src="https://img.shields.io/badge/RealmDB-05112A?style=flat&logo=REALM" />&nbsp;
+<img src="https://img.shields.io/badge/Ansible-05112A.svg?style=flat&logo=ANSIBLE" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-05112A?style=flat&logo=KUBERNETES" />&nbsp;
+<img src="https://img.shields.io/badge/Terraform-05112A.svg?style=flat&logo=TERRAFORM" />&nbsp;
 <img src="https://img.shields.io/badge/Google_Cloud_Platform-05112A.svg?style=flat&logo=GOOGLE-CLOUD" />&nbsp;
 <img src="https://img.shields.io/badge/Amazon_Web_Services-05112A.svg?style=flat&logo=AMAZON-AWS" />&nbsp;
 <img src="https://img.shields.io/badge/Amazon_Lambda-05112A.svg?style=flat&logo=AWS-LAMBDA" />&nbsp;
-<img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-05112A?style=flat&logo=KUBERNETES" />&nbsp;
-<img src="https://img.shields.io/badge/Ansible-05112A.svg?style=flat&logo=ANSIBLE" />&nbsp;
-<img src="https://img.shields.io/badge/Terraform-05112A.svg?style=flat&logo=TERRAFORM" />&nbsp;
 <img src="https://img.shields.io/badge/Jest-05112A?style=flat&logo=JEST" />&nbsp;
 <img src="https://img.shields.io/badge/Cypress-05112A?style=flat&logo=CYPRESS" />&nbsp;
 <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
