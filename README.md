@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
 <img src="https://img.shields.io/badge/RealmDB-05112A?style=flat&logo=REALM" />&nbsp;
 <img src="https://img.shields.io/badge/Nginx-05112A?style=flat&logo=NGINX" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-05112A?style=flat&logo=REDIS" />&nbsp;
 <img src="https://img.shields.io/badge/RabbitMQ-05112A?style=flat&logo=RABBITMQ" />&nbsp;
 <img src="https://img.shields.io/badge/Apache_Kafka-05112A?style=flat&logo=APACHE-KAFKA" />&nbsp;
 <img src="https://img.shields.io/badge/Ansible-05112A.svg?style=flat&logo=ANSIBLE" />&nbsp;
