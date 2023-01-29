@@ -76,7 +76,7 @@
 <hr>
 
 <!-- Credits -->
-<p align="center">Last Updated ON: 16/12/2022</p>
+<p align="center">Last Updated ON: 29/01/2023</p>
 
 <hr>
 
