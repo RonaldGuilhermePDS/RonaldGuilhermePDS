@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/EXPO-05112A?style=flat&logo=EXPO" />&nbsp;
 <img src="https://img.shields.io/badge/Next.js-05112A?style=flat&logo=NEXT.JS" />&nbsp;
 <img src="https://img.shields.io/badge/Electron-05112A?style=flat&logo=ELECTRON" />&nbsp;
-<img src="https://img.shields.io/badge/MySQL-05112A?stylflat&logo=MYSQL" />&nbsp; 
+<img src="https://img.shields.io/badge/MySQL-05112A?stylflat&logo=MYSQL" />&nbsp;
+<img src="https://img.shields.io/badge/Prisma-05112A?stylflat&logo=PRISMA" />&nbsp;
 <img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
 <img src="https://img.shields.io/badge/RealmDB-05112A?style=flat&logo=REALM" />&nbsp;
