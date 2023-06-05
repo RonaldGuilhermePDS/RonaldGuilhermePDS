@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/React%20Native-05112A?style=flat&logo=REACT" />&nbsp;
 <img src="https://img.shields.io/badge/EXPO-05112A?style=flat&logo=EXPO" />&nbsp;
 <img src="https://img.shields.io/badge/Next.js-05112A?style=flat&logo=NEXT.JS" />&nbsp;
+<img src="https://img.shields.io/badge/Nest.js-05112A?style=flat&logo=NESTJS" />&nbsp;
 <img src="https://img.shields.io/badge/Electron-05112A?style=flat&logo=ELECTRON" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-05112A?stylflat&logo=MYSQL" />&nbsp;
 <img src="https://img.shields.io/badge/Prisma-05112A?stylflat&logo=PRISMA" />&nbsp;
