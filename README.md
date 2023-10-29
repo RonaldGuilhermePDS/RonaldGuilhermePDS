@@ -10,16 +10,6 @@
 
 <hr>
 
-<!-- Studying About -->
-<h3 align="center">🏆&nbsp;What am i studying?&nbsp;🏆</h3>
-
-<p align="center">Management, automation and configuration of servers with <img src="https://img.shields.io/badge/Ansible-05112A?style=flat&logo=ANSIBLE" align="center" />&nbsp;
-</p>
-
-<p align="center">Provisioning Infrastructure as Code (IAC) with <img src="https://img.shields.io/badge/Terraform-05112A?style=flat&logo=TERRAFORM" align="center" /></p>
-
-<hr>
-
 <!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
 
