@@ -6,7 +6,7 @@
 <!-- Resume -->
 <h3 align="center">🏆&nbsp;Welcome to my Profile&nbsp;🏆</h3>
 
-<p align="left">Professional with over 5 years of experience in software development, always striving to solve complex problems with simple solutions.
+<p align="left">Professional with over 10 years of experience in software development, always striving to solve complex problems with simple solutions.
 
 My journey with code began when I was 12 years old, and since then, I have been honing my skills, always striving to solve complex problems with simple solutions, focusing on the core of software: the domain.
 
